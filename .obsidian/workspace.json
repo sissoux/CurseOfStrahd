@@ -8,97 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f43cc257c284458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resurrection - Dark gifts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57475f2ee92af64f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "9979fc9c19a6d91c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La mort de pipou.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8069031ee84cbed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krezk area/Abbey sainte markovia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c60718ede5946d92",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f7551980f9c77c33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 2-3 la chasse/La chasse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f09020903e70cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krezk area/Krezk I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0dc2819de6fd697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krezk area/Infos de Dmitri Krezkov.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa63e6e7cc4e2d46",
+            "id": "7621f7aa6570e1ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,7 +16,121 @@
                 "file": "Krezk area/Krezk II Fidatov manor.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Krezk II Fidatov manor"
+            }
+          },
+          {
+            "id": "c6f84d1256e977bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garan à ravenloft/Garan et strahd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Garan et strahd"
+            }
+          },
+          {
+            "id": "3c0ab1273ef68866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temperature rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temperature rules"
+            }
+          },
+          {
+            "id": "705c98f32618cd06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krezk area/Le pont de la mort, sur la route de Ste Markovia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Le pont de la mort, sur la route de Ste Markovia"
+            }
+          },
+          {
+            "id": "0bffebf2b3ceeea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 2-6/Session 2-6 - L'abbaye de Ste Markovia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 2-6 - L'abbaye de Ste Markovia"
+            }
+          },
+          {
+            "id": "4e205c079f28549f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dark forces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dark forces"
+            }
+          },
+          {
+            "id": "5dfe520534ebd6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 2-5/Session 2-5 - Le combat contre Ilya krezkov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 2-5 - Le combat contre Ilya krezkov"
+            }
+          },
+          {
+            "id": "19952e960c2caba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 2-6/Lili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lili"
+            }
+          },
+          {
+            "id": "4615894a6f7231dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krezk area/Krezk II Fidatov manor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Krezk II Fidatov manor"
             }
           },
           {
@@ -118,35 +142,13 @@
                 "file": "Krezk area/Krezk III The Maze.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4dfee50b96f726c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leveling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "183e6bc1c1458a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leveling.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Krezk III The Maze"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +168,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -181,7 +185,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
@@ -189,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
             }
           }
         ]
@@ -212,6 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Krezk area/Krezk II Fidatov manor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +228,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Krezk II Fidatov manor"
             }
           },
           {
@@ -228,9 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Krezk area/Krezk II Fidatov manor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Krezk II Fidatov manor"
             }
           },
           {
@@ -241,7 +255,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
@@ -249,7 +265,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Krezk area/Krezk II Fidatov manor.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Krezk II Fidatov manor"
             }
           }
         ]
@@ -261,55 +281,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false
     }
   },
-  "active": "c60718ede5946d92",
+  "active": "4615894a6f7231dc",
   "lastOpenFiles": [
+    "Session 2-7.md",
+    "Session 2-6/Lili.md",
+    "Krezk area/Infos de Dmitri Krezkov.md",
+    "Krezk area/Vasili - Ireena - the shrine of the white sun.md",
+    "Krezk area/Abbey sainte markovia.md",
+    "Krezk area/Jouer l'abbé de l'abbaye de sainte Markovia - Axel.md",
+    "Forces obscures et PJ/PO-TeiJah.md",
+    "Size lore and regions.md",
+    "Temperature rules.md",
+    "Session 2-6/Session 2-6 - L'abbaye de Ste Markovia.md",
+    "Garan à ravenloft/Garan et strahd 1.md",
+    "Garan à ravenloft/Garan et strahd.md",
+    "La communication.md",
+    "Untitled.md",
+    "Session 2-6",
+    "Session 2-5/Session 2-5 - Le combat contre Ilya krezkov.md",
+    "Session 2-5",
+    "Session 2-4",
+    "Forces obscures et PJ",
+    "Dark forces.md",
+    "Krezk area/Le pont de la mort, sur la route de Ste Markovia.md",
+    "Garan à ravenloft",
+    "Recording 20241004183507.webm",
     "Krezk area/Krezk II Fidatov manor.md",
-    "Vallaki/Events of vallaki.png",
     "Krezk area/Krezk I.md",
+    "Vallaki/Events of vallaki.png",
     "Krezk area/Resources/Pasted image 20240907111447.png",
     "Krezk area/Resources",
-    "Krezk area/Jouer l'abbé de l'abbaye de sainte Markovia - Axel.md",
     "Krezk area/Resources/Pasted image 20240907111558.png",
     "Krezk area/Resources/Pasted image 20240907111530.png",
-    "Krezk area/Abbey sainte markovia.md",
     "Krezk area/Krezk III The Maze.md",
     "Leveling.md",
-    "Size lore and regions.md",
-    "Dark forces.md",
-    "Krezk area/Vasili - Ireena - the shrine of the white sun.md",
-    "Krezk area/Infos de Dmitri Krezkov.md",
     "Krezk area/Tanière des loups garous.md",
     "Session 2-3 la chasse/La chasse.md",
     "Krezk area/Tour de Van Richten.md",
     "Resurrection - Dark gifts.md",
     "Welcome.md",
-    "Lycantropie.md",
-    "Vallaki/Retour a vallaki/Retour a Vallaki.md",
-    "Vallaki/Vistani disparue.md",
-    "Encounters/Extra encounters.md",
     "Encounters",
     "Krezk area",
-    "Session 2-3 la chasse",
-    "La mort de pipou.md",
-    "PNJ/Ezmerelda d'Avenir.md",
-    "Session 2-1/Déroulé de session.md",
-    "Session 2-1/Strahd et Garan.md",
-    "Résumés/Inter Saison.md",
-    "Résumés/Résumés.md",
-    "PNJ",
-    "Session 2-1",
-    "Untitled",
-    "Vallaki/Retour a vallaki",
-    "Vallaki",
-    "Résumés"
+    "Session 2-3 la chasse"
   ]
 }
