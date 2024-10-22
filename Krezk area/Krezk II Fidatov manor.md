@@ -274,7 +274,9 @@ Une fois qu'ils ont déterminé l'emplacement de la crypte, ils apprendront éga
             
         - Quand tout était fini, Taltos était le seul survivant. Dans l'après-coup, il a suivi une sorte de besoin intérieur compulsif de maintenir la maison en état et a tenté de nettoyer certains des corps. Mais après quelques jours sans sommeil, il a réalisé l'inutilité de ses actions et s'est donné la mort.
             
-    - Lorsque les joueurs trouvent la pièce secrète au deuxième étage, ils trouveront Taltos et la clé du manoir. Ils trouveront également sa note finale, détaillant ce qui s'est passé.### Partie 4 : La Bataille des Reflets dans la Dimension Miroir
+    - Lorsque les joueurs trouvent la pièce secrète au deuxième étage, ils trouveront Taltos et la clé du manoir. Ils trouveront également sa note finale, détaillant ce qui s'est passé.
+    
+### Partie 4 : La Bataille des Reflets dans la Dimension Miroir
 
 Votre aventure a maintenant atteint un moment crucial, et vos joueurs vont devoir se frotter à une épreuve redoutable dans la galerie d’art. Voici comment gérer la bataille intense contre les reflets dans la dimension miroir et quelques suggestions pour que l’expérience reste mémorable sans être écrasante pour vos joueurs.
 
