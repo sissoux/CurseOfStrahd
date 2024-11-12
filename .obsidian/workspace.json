@@ -22,90 +22,6 @@
             }
           },
           {
-            "id": "c6f84d1256e977bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garan à ravenloft/Garan et strahd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Garan et strahd"
-            }
-          },
-          {
-            "id": "3c0ab1273ef68866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temperature rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Temperature rules"
-            }
-          },
-          {
-            "id": "705c98f32618cd06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krezk area/Le pont de la mort, sur la route de Ste Markovia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Le pont de la mort, sur la route de Ste Markovia"
-            }
-          },
-          {
-            "id": "0bffebf2b3ceeea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 2-6/Session 2-6 - L'abbaye de Ste Markovia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 2-6 - L'abbaye de Ste Markovia"
-            }
-          },
-          {
-            "id": "4e205c079f28549f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dark forces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dark forces"
-            }
-          },
-          {
-            "id": "5dfe520534ebd6c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 2-5/Session 2-5 - Le combat contre Ilya krezkov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 2-5 - Le combat contre Ilya krezkov"
-            }
-          },
-          {
             "id": "19952e960c2caba9",
             "type": "leaf",
             "state": {
@@ -125,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 2-7/Session 2-7.md",
+                "file": "Session 2-7/Le manoir maudit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2-7"
+              "title": "Le manoir maudit"
             }
           },
           {
@@ -139,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krezk area/Krezk III The Maze.md",
+                "file": "Session 2-7/Le manoir maudit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Krezk III The Maze"
+              "title": "Le manoir maudit"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -293,10 +209,13 @@
   },
   "active": "4615894a6f7231dc",
   "lastOpenFiles": [
-    "Krezk area/Krezk II Fidatov manor.md",
-    "Session 2-7",
     "Session 2-7/Session 2-7.md",
+    "Session 2-7/Le manoir maudit.md",
+    "Krezk area/Krezk III The Maze.md",
     "Session 2-6/Lili.md",
+    "Krezk area/Krezk II Fidatov manor.md",
+    "Session 2-6/Session 2-6 - L'abbaye de Ste Markovia.md",
+    "Session 2-7",
     "Krezk area/Infos de Dmitri Krezkov.md",
     "Krezk area/Vasili - Ireena - the shrine of the white sun.md",
     "Krezk area/Abbey sainte markovia.md",
@@ -304,7 +223,6 @@
     "Forces obscures et PJ/PO-TeiJah.md",
     "Size lore and regions.md",
     "Temperature rules.md",
-    "Session 2-6/Session 2-6 - L'abbaye de Ste Markovia.md",
     "Garan à ravenloft/Garan et strahd 1.md",
     "Garan à ravenloft/Garan et strahd.md",
     "La communication.md",
@@ -324,7 +242,6 @@
     "Krezk area/Resources",
     "Krezk area/Resources/Pasted image 20240907111558.png",
     "Krezk area/Resources/Pasted image 20240907111530.png",
-    "Krezk area/Krezk III The Maze.md",
     "Leveling.md",
     "Krezk area/Tanière des loups garous.md",
     "Session 2-3 la chasse/La chasse.md",

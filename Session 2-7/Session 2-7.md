@@ -89,26 +89,26 @@ La galerie d’art du manoir Fidatov est un espace grandiose baigné de lumière
 ***Les jeux proposés:***
     Différentes tables de jeu sont installées et quelques personnes y sont attroupées:
     
-**Gambit — Jeu de cartes — Mise de 50 pièces d’or**
+**Gambit — Jeu de cartes — Mise de 5 pièces d’or**
 
     Chaque joueur lance un D8 pour chaque carte, en gardant le dé caché. Chaque joueur a ensuite l'occasion de relancer la mise, suivre la mise (l'égaler) ou se coucher. Le jeu continue lorsque toutes les mises sont égales. Ensuite, chaque joueur lance un D6, qu’il garde également secret. Une dernière chance est offerte de relancer, suivre ou se coucher. Chaque joueur restant lance un D4. Tous révèlent ensuite leur D8, D6 et D4, en additionnant les résultats. Le gagnant prend 80 % du pot (20 % vont au casino). En cas d'égalité, les 80 % sont partagés.
 
     Une compétence de « filouterie » peut permettre un relancer de dé. La « tromperie » peut forcer un joueur à se coucher.
 
-**Faveur — Jeu de dés — Mise minimum de 25 pièces d’or**
+**Faveur — Jeu de dés — Mise minimum de 2.5 pièces d’or**
 
     Lancez 2D6. Si la somme est égale à 7 ou 12, vous gagnez. Vous pouvez doubler la mise pour ajouter un D6 au total.
 
-**Course de chance — Jeu de course de rats des marais — Mise de 25 pièces d’or minimum, possibilité de parier plus**
+**Course de chance — Jeu de course de rats des marais — Mise de 2.5 pièces d’or minimum, possibilité de parier plus**
 
     Jeu traditionnel ancestral. Cinq Rats des marais sont lâchés sur une petite piste de course sur table. Lancez un D4 pour chaque rat trois fois, en décrivant les étapes de la course à chaque série de lancers. Le rat avec le total le plus élevé remporte la course, et ceux qui ont parié sur lui doublent leur mise.
 
 **Le loto des vins enchantés**:
     roll 1d10 pour 10 verres:
-     1 beguins (2/8) Tu te sens baigné dans la félicité, une douce chaleur se repend en toi. Tout te semble possible - Avantage à tous les jets de caractéristiques pendant 1h
+     1 beguins (2/8) Tu te sens baigné dans la félicité, une douce chaleur se repend en toi. Tout te semble possible - Avantage à tous les jets de caractéristiques pendant 3h
      3 normaux  (1/5/7) Un bon cru, comme on sait en faire aux endroits rafinés - Avantage à tous les jets de charisme et de sagesse
      4 purée de raisin (3/4/6/9) - Il est bon mais pas top - tu auras probablement mal au crane au réveil
-     1 melasse du chef (6) Pouah, c'est aussi fort que le gout est mauvais. Mal de crane assuré - Désavantage aux jets d'attaque et de caractéristiques pendant 1h
+     1 melasse du chef (6) Pouah, c'est aussi fort que le gout est mauvais. Mal de crane assuré - Désavantage aux jets d'attaque et de caractéristiques pendant 3h
 
 
 **Le mylko:**
@@ -116,3 +116,8 @@ La galerie d’art du manoir Fidatov est un espace grandiose baigné de lumière
 
 **La course de relais en sac: **
     25 Cases à parcourir, 1d10/ tour. Lot 1 bouteille de beguin du dragon rouge. - 1 verre de beguin donne un avantage sur les jets de carac pendant 1h
+
+
+1 1 6 7 2 4 6
+2 6 7 8 8 1 3
+6 7 2 8 8 8
