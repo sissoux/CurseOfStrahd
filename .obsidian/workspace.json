@@ -8,129 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7621f7aa6570e1ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krezk area/Krezk II Fidatov manor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Krezk II Fidatov manor"
-            }
-          },
-          {
-            "id": "c6f84d1256e977bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garan à ravenloft/Garan et strahd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Garan et strahd"
-            }
-          },
-          {
-            "id": "3c0ab1273ef68866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temperature rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Temperature rules"
-            }
-          },
-          {
-            "id": "705c98f32618cd06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krezk area/Le pont de la mort, sur la route de Ste Markovia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Le pont de la mort, sur la route de Ste Markovia"
-            }
-          },
-          {
-            "id": "0bffebf2b3ceeea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 2-6/Session 2-6 - L'abbaye de Ste Markovia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 2-6 - L'abbaye de Ste Markovia"
-            }
-          },
-          {
-            "id": "4e205c079f28549f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dark forces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dark forces"
-            }
-          },
-          {
-            "id": "5dfe520534ebd6c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 2-5/Session 2-5 - Le combat contre Ilya krezkov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 2-5 - Le combat contre Ilya krezkov"
-            }
-          },
-          {
-            "id": "19952e960c2caba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 2-6/Lili.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lili"
-            }
-          },
-          {
             "id": "4615894a6f7231dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 2-7/Session 2-7.md",
+                "file": "Krezk area/Manoir Fidatov DDAL04.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 2-7"
+              }
+            }
+          },
+          {
+            "id": "df879493d50a6b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal de lady fidatov.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -139,16 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krezk area/Krezk III The Maze.md",
+                "file": "Session 2-7/Le manoir maudit.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Krezk III The Maze"
+              }
+            }
+          },
+          {
+            "id": "50d2975c2b450525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krezk area/Krezk II Fidatov manor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "327e5578468b404e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manoir fidatov-Le tour du domaine.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,9 +88,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              }
             }
           },
           {
@@ -185,9 +103,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Rechercher"
+              }
             }
           },
           {
@@ -195,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Signet"
+              "state": {}
             }
           }
         ]
@@ -220,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krezk area/Krezk II Fidatov manor.md",
+                "file": "Manoir fidatov-Le tour du domaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,9 +142,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Rétrolien pour Krezk II Fidatov manor"
+              }
             }
           },
           {
@@ -239,12 +151,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krezk area/Krezk II Fidatov manor.md",
+                "file": "Manoir fidatov-Le tour du domaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Liens sortants de Krezk II Fidatov manor"
+              }
             }
           },
           {
@@ -255,9 +165,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Mots-clés"
+              }
             }
           },
           {
@@ -266,10 +174,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krezk area/Krezk II Fidatov manor.md"
-              },
-              "icon": "lucide-list",
-              "title": "Plan de Krezk II Fidatov manor"
+                "file": "Manoir fidatov-Le tour du domaine.md"
+              }
             }
           }
         ]
@@ -281,21 +187,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
       "git-integration:Open git menu": false
     }
   },
-  "active": "4615894a6f7231dc",
+  "active": "327e5578468b404e",
   "lastOpenFiles": [
     "Krezk area/Krezk II Fidatov manor.md",
-    "Session 2-7",
+    "Manoir fidatov-Le tour du domaine.md",
+    "Journal de lady fidatov.md",
+    "Krezk area/Manoir Fidatov DDAL04.md",
+    "Session 2-7/Le manoir maudit.md",
+    "Krezk area/Krezk III The Maze.md",
+    "Krezk area/Fidatov Manor2.md",
+    "Krezk area/Fidatov manor 2 trad.md",
     "Session 2-7/Session 2-7.md",
+    "Session 2-7",
     "Session 2-6/Lili.md",
     "Krezk area/Infos de Dmitri Krezkov.md",
     "Krezk area/Vasili - Ireena - the shrine of the white sun.md",
@@ -324,12 +237,6 @@
     "Krezk area/Resources",
     "Krezk area/Resources/Pasted image 20240907111558.png",
     "Krezk area/Resources/Pasted image 20240907111530.png",
-    "Krezk area/Krezk III The Maze.md",
-    "Leveling.md",
-    "Krezk area/Tanière des loups garous.md",
-    "Session 2-3 la chasse/La chasse.md",
-    "Krezk area/Tour de Van Richten.md",
-    "Resurrection - Dark gifts.md",
     "Encounters",
     "Krezk area"
   ]

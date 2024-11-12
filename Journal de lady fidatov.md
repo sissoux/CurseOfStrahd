@@ -1,0 +1,6 @@
+
+**Le moment est venu de rompre avec Dmitri. Il a été un divertissement agréable, mais il devient de plus en plus insistant pour que nous nous mariions. Il se croit irrésistible, pense que je suis amoureuse et donc stupide, mais je joue bien mieux que lui ne l'imagine. Penser que je lui céderais non seulement ma fortune, mais aussi la domination de mes terres, de ma propre vie, à un homme ? L'idée me dégoûte.**
+
+**Les domestiques me disent qu'il rôde dans le manoir la nuit, cherchant dans la bibliothèque des indices sur l'emplacement du caveau. Quelle folie. Mon père n'était pas un imbécile, et sa fille non plus. Il n'y a pas de caveau car mes ancêtres veillent éternellement sur notre trésor. Seul le sceau personnel du plus grand rejeton de notre famille — le septième fils du septième fils de Valetian Fidatov — peut ouvrir le passage et désactiver les protections. Enfin, le deuxième plus grand rejeton de notre famille, après moi, bien sûr.**
+
+**Dmitri n'allait jamais obtenir ce qu'il voulait, mais il sera tout de même contrarié quand je mettrai fin à notre liaison. Je vais lui annoncer ce soir et le renvoyer calmement. Je ne veux pas qu'il fasse une scène lors de ma fête la semaine prochaine, et puis, peut-être y aura-t-il un ou deux nouveaux prétendants à considérer...**
