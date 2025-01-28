@@ -33,7 +33,7 @@ Les personnages peuvent aborder quelques sujets poignants au cours de la discuss
 
 **Développement**
 
-Aussi agréables que puissent être les personnages, la Dame Fidatov est implacable. Elle n'aidera pas le village d'Orașnou. Finalement, elle finit par faire comprendre qu'elle ne souhaite pas poursuivre la conversation.
+Aussi agréables que puissent être les personnages, la Dame Fidatov est implacable. Elle n'aidera pas le village d'Krezk. Finalement, elle finit par faire comprendre qu'elle ne souhaite pas poursuivre la conversation.
 
 ==« Si j'aide ce village, la nouvelle se répandra. Toute la Barovie serait à ma porte, la main tendue. Je ne peux pas permettre que cela arrive. » Elle fait une pause. « Quoi qu'il en soit, vous avez voyagé loin. Je suis disposée à vous inviter à passer la nuit en tant que mes invités. Vous pourrez retourner à Krezk demain matin, et je m'assurerai que vous soyez bien approvisionnés pour le voyage. Acceptez-vous ? »==
 
@@ -41,13 +41,13 @@ La Dame Fidatov ne s'offense pas si les personnages déclinent son offre d'hospi
 
 **Les Personnages Acceptent.** Si les personnages passent la nuit, la Dame Fidatov convoque un portier pour transporter leurs affaires dans les chambres d'amis à l'étage. Passez à la Rencontre A : **Merci, Généreux Hôtes**, ci-dessous.
 
-**Les Personnages Refusent.** Si les personnages refusent et choisissent de quitter le domaine, elle semble déçue, mais acquiesce. Un portier apparaît avec leurs affaires et elle leur fournit un paquet contenant suffisamment de nourriture et de vin pour le voyage de retour vers Orașnou. Passez à la Rencontre B : **Une Promenade au Parc**, ci-dessous.
+**Les Personnages Refusent.** Si les personnages refusent et choisissent de quitter le domaine, elle semble déçue, mais acquiesce. Un portier apparaît avec leurs affaires et elle leur fournit un paquet contenant suffisamment de nourriture et de vin pour le voyage de retour vers Krezk. Passez à la Rencontre B : **Une Promenade au Parc**, ci-dessous.
 
 ***Résolution de Problème : On la Tue Maintenant***
 
 *Il est possible que des joueurs impatients décident d'attaquer la Dame Fidatov pour en finir. Après tout, ces histoires tendent à se terminer par une confrontation inévitable avec le méchant.*
 
-*Même si la Dame Fidatov ou un autre résident du domaine est tué pendant la journée, le corps ne se relève pas en tant que mort-vDmitrit tant que la malédiction n'est pas déclenchée.*
+*Même si la Dame Fidatov ou un autre résident du domaine est tué pendant la journée, le corps ne se relève pas en tant que mort-vivant tant que la malédiction n'est pas déclenchée.*
 
 *Les personnages peuvent commettre des meurtres en masse et piller le domaine de jour encore et encore sans rien changer ; la malédiction réinitialise tout le lendemain matin au lever du soleil, sans que personne ne soit plus sage. Tous les objets volés du manoir ou du domaine se réduisent en poussière et réapparaissent à leur place appropriée la prochaine fois que la malédiction se réinitialise.*
 *Un sort de lever de malédiction est inutile ; les Pouvoirs Sombres de Ravenloft sont bien plus puissants que toute magie mortelle. La seule façon de changer cette histoire insensée est de la vivre jusqu'à sa conclusion, puis d'écrire une nouvelle fin.*
@@ -70,15 +70,13 @@ Pendant que les personnages interagissent avec les invités, distribuez les indi
 
 **Où Pensez-Vous Aller ?**
 
-Après leur retrait pour la nuit, les pièces suDmitrites sont interdites aux invités : le salon privé (Zone 12), le bureau (Zone 14), les escaliers arrière / entrée des serviteurs (Zone 15) et tout le deuxième étage (l'escalier principal est barré par une corde et plusieurs hommes d'armes dissuadent poliment mais fermement quiconque de monter à l'étage. « La Dame demande à ce que ses invités restent dans les salles publiques pour l'instant. »). La galerie (Zone 13) est ouverte et les invités sont invités à admirer, mais pas à toucher, les diverses œuvres d'art et portraits de famille exposés.
+Après leur retrait pour la nuit, les pièces suivantes sont interdites aux invités : le salon privé (Zone 12), le bureau (Zone 14), les escaliers arrière / entrée des serviteurs (Zone 15) et tout le deuxième étage (l'escalier principal est barré par une corde et plusieurs hommes d'armes dissuadent poliment mais fermement quiconque de monter à l'étage. « La Dame demande à ce que ses invités restent dans les salles publiques pour l'instant. »). La galerie (Zone 13) est ouverte et les invités sont invités à admirer, mais pas à toucher, les diverses œuvres d'art et portraits de famille exposés.
 
 Si les personnages parviennent à se faire expulser de la fête pour avoir offensé leur hôtesse ou causé des perturbations, passez à la **Rencontre B** ci-dessous ; la malédiction se déclenche après qu'ils ont quitté le manoir et traversent le domaine.
 
 **Développement**
 
-==Voilà quelques dizaines de minutes que lady Fidatov s'est absentée. Alors que la soirée bat son plein et que Lady Fidatov. ==
-
-==**Moments plus tard, un cri terrible déchire le manoir.**==
+==Voilà quelques dizaines de minutes que lady Fidatov s'est absentée. Alors que la soirée bat son plein un cri terrible déchire le manoir.==
 
 ==Les musiciens jouent encore un moment avant de s'arrêter, confus quant à la raison pour laquelle tout le monde a cessé de danser. Toutes les conversations s'interrompent. Un silence de mort s'installe.==
 
@@ -106,7 +104,7 @@ Donnez à chaque personnage un tour pour réagir face à cette scène terrible. 
 
 **Partie 3 : Le Manoir Maudit**
 
-Les personnages qui se trouvent à l'extérieur doivent d'abord retourner au manoir. En chemin, ils peuvent entendre les sons des morts-vDmitrits restants qui se déchirent entre eux. Lisez ou paraphrasez ce qui suit :
+Les personnages qui se trouvent à l'extérieur doivent d'abord retourner au manoir. En chemin, ils peuvent entendre les sons des morts-vivants restants qui se déchirent entre eux. Lisez ou paraphrasez ce qui suit :
 
 ==`Le manoir élégant s'est transformé en une scène d'horreur et de destruction. Tout semble avoir changé ; les fines tentures pendent désormais en lambeaux et pourries, les sols sont tachés et fissurés, et même les murs et plafonds s'affaissent légèrement. Partout où vous regardez, vous voyez des cadavres : empilés dans des coins, étalés sur le dossier d'une chaise, suspendus mollement dans les éclats d'une fenêtre brisée. Le danger immédiat semble être passé, mais vous pouvez encore entendre des bruits de combat au loin.`==
 
@@ -129,7 +127,7 @@ Avec le blason familial approprié en main et armés du savoir que la Dame Fidat
 
 **Caractéristiques Générales**
 
-L'intérieur du manoir possède les caractéristiques générales suDmitrites.
+L'intérieur du manoir possède les caractéristiques générales suivantes.
 
 **Terrain.** Bien que la maison soit suffisamment solide, certaines zones des sols peuvent être gondolées et brisées, créant un terrain difficile. De même, les meubles et les objets sont dispersés un peu partout. La peinture est écaillée et fissurée, et le papier peint est fané et déchiré. Même les murs plâtrés ont des morceaux manquants à certains endroits, révélant les poutres de charpente en dessous.
 
@@ -143,7 +141,7 @@ L'intérieur du manoir possède les caractéristiques générales suDmitrites.
 
 ## L'Intérieur du Manoir Fidatov
 
-Les notes suDmitrites expliquent ce que les personnages trouvent dans le manoir transformé. La clé des pièces reste la même.
+Les notes suivantes expliquent ce que les personnages trouvent dans le manoir transformé. La clé des pièces reste la même.
 
 **1. Devant le Manoir**
 
@@ -206,7 +204,7 @@ Lorsque les personnages entrent dans la pièce, lisez ou paraphrasez ce qui suit
 
 ==`Le fantôme pousse un cri qui lacère votre esprit et votre corps avant de se retourner et de traverser un mur voisin.`==
 
-Marilena reconnaît évidemment les personnages. Elle est la seule à conserver son esprit et ses souvenirs malgré les effets de la malédiction. En voyant les personnages vDmitrits, elle craint qu'Dmitri ne soit en train de manigancer pour s'emparer de son précieux trésor.
+Marilena reconnaît évidemment les personnages. Elle est la seule à conserver son esprit et ses souvenirs malgré les effets de la malédiction. En voyant les personnages vivants, elle craint qu'Dmitri ne soit en train de manigancer pour s'emparer de son précieux trésor.
 
 Les personnages peuvent la suivre à travers le manoir, jusqu'au jardin où elle passe à travers les haies envahies et disparaît dans un bâtiment sombre au centre. Les personnages doivent se frayer un chemin à travers les haies ou naviguer dans le labyrinthe, de sorte qu'ils ne peuvent atteindre le bâtiment avant qu'elle ne disparaisse. Reportez-vous à la Partie 4 lorsque les personnages sont prêts à s'approcher de la crypte.
 
@@ -290,11 +288,11 @@ La réserve et la cuisine sont remplies de nourriture pourrie. Un torse sans mem
 
 Pour échapper au domaine Fidatov, les personnages doivent lever la malédiction. La seule façon de le faire est de confronter la Dame Marilena. Elle s'est réfugiée dans la crypte familiale, où son trésor est caché. Les personnages ne peuvent pas entrer dans la crypte tant qu'ils n'ont pas le blason familial nécessaire pour désactiver les protections.
 
-Si les personnages fuient sans lever la malédiction, les divers morts-vDmitrits du domaine se lèvent et les suivent. Bien que les personnages puissent facilement les distancer, les morts-vDmitrits finissent par les retrouver s'ils quittent les lieux pour récupérer de leurs blessures. Cependant, ils ne vont pas très loin ; au lever du soleil, ils disparaissent alors que le domaine et tout ce qui s'y trouve revient à son état antérieur lorsque la malédiction se réinitialise.
+Si les personnages fuient sans lever la malédiction, les divers morts-vivants du domaine se lèvent et les suivent. Bien que les personnages puissent facilement les distancer, les morts-vivants finissent par les retrouver s'ils quittent les lieux pour récupérer de leurs blessures. Cependant, ils ne vont pas très loin ; au lever du soleil, ils disparaissent alors que le domaine et tout ce qui s'y trouve revient à son état antérieur lorsque la malédiction se réinitialise.
 
 **Le Labyrinthe de Haies**
 
-La crypte est située au centre des jardins. Les haies sont semi-sentientes tant que la malédiction est active et cherchent activement à empêcher les gens d'atteindre la crypte, formant un labyrinthe vDmitrit. Cependant, par souci de temps, décrivez simplement la progression rapide à travers le labyrinthe, même si celui-ci tente de les retarder en fermant des chemins, en les faisant trébucher et en tirant sur leurs vêtements.
+La crypte est située au centre des jardins. Les haies sont semi-sentientes tant que la malédiction est active et cherchent activement à empêcher les gens d'atteindre la crypte, formant un labyrinthe vivant. Cependant, par souci de temps, décrivez simplement la progression rapide à travers le labyrinthe, même si celui-ci tente de les retarder en fermant des chemins, en les faisant trébucher et en tirant sur leurs vêtements.
 
 ***Prolonger l'Aventure***
 
@@ -310,7 +308,7 @@ Lorsque les personnages atteignent le centre du labyrinthe, lisez ou paraphrasez
 
 **Résolution des Problèmes : Blason ? Quel Blason ?**
 
-*Il est tout à fait possible que les personnages arrivent ici trop tôt (en poursuDmitrit l'esprit de la Dame Fidatov lorsqu'ils découvrent son corps dans le manoir). Dans ce cas, ils ne peuvent tout simplement pas entrer dans la crypte. Ne les laissez pas perdre trop de temps ; rappelez-leur qu'ils n'ont pas entièrement exploré le manoir et ils devraient comprendre l'indice. Un test d'Intelligence (Arcane) DC 11 révèle qu'une sorte de protection empêche probablement l'utilisation d'éthéréalité, de modelage de la pierre, ou d'autres magies pour accéder à la crypte.*
+*Il est tout à fait possible que les personnages arrivent ici trop tôt (en poursuivant l'esprit de la Dame Fidatov lorsqu'ils découvrent son corps dans le manoir). Dans ce cas, ils ne peuvent tout simplement pas entrer dans la crypte. Ne les laissez pas perdre trop de temps ; rappelez-leur qu'ils n'ont pas entièrement exploré le manoir et ils devraient comprendre l'indice. Un test d'Intelligence (Arcane) DC 11 révèle qu'une sorte de protection empêche probablement l'utilisation d'éthéréalité, de modelage de la pierre, ou d'autres magies pour accéder à la crypte.*
 
 Placer le bon blason familial au centre de la dalle de pierre produit un clic satisfaisant. Le blason ressort légèrement. Le personnage doit retirer le blason, ce qui fait trembler la dalle et s'enfoncer dans le sol.
 
@@ -351,7 +349,7 @@ Voici la traduction de la section concernant le jeu de rôle de la tentation et 
 
 *Jouer la Tentation*
 
-*Tout personnage dont le défaut correspond particulièrement bien à cet effet (par exemple, une faiblesse pour les objets brillants, une cupidité excessive, un amour de l'argent, ou une incapacité à résister à la tentation) peut choisir volontairement d'échouer au jet de sauvegarde initial contre l'effet du trésor. Si le joueur choisit cette option et joue le défaut de son personnage de manière appropriée, vous pouvez choisir de lui accorder l'avantage sur ses jets de sauvegarde contre les capacités Cri et Visage Horrifiant de Marilena Fidatov. Le personnage continue de faire les seconds et suDmitrits jets de sauvegarde contre l'effet d'envoûtement comme d'habitude.*
+*Tout personnage dont le défaut correspond particulièrement bien à cet effet (par exemple, une faiblesse pour les objets brillants, une cupidité excessive, un amour de l'argent, ou une incapacité à résister à la tentation) peut choisir volontairement d'échouer au jet de sauvegarde initial contre l'effet du trésor. Si le joueur choisit cette option et joue le défaut de son personnage de manière appropriée, vous pouvez choisir de lui accorder l'avantage sur ses jets de sauvegarde contre les capacités Cri et Visage Horrifiant de Marilena Fidatov. Le personnage continue de faire les seconds et suivants jets de sauvegarde contre l'effet d'envoûtement comme d'habitude.*
 
 Le Cri de la Banshee
 
@@ -386,7 +384,7 @@ Lorsque la Dame Fidatov est détruite, lisez ou paraphrasez ce qui suit :
 - ***Je Serai Là-Bas.** La banshee se déplace à sa vitesse sans provoquer d'attaques d'opportunité.*
 - ***Laisse-Moi Te Toucher.** La banshee utilise **Toucher Corruptif**.*
 - ***Mon Trésor !** La banshee commande à un essaim de pièces rampantes dans un rayon de 9 mètres autour d'elle de prendre une réaction pour se déplacer à sa vitesse ou pour effectuer une attaque au corps à corps contre une créature à sa portée.*
-- ***Phase Mortelle (Coûte 2 Actions).** La banshee se déplace à sa vitesse sans provoquer d'attaques d'opportunité. Pendant ce déplacement, si elle traverse une case contenant une créature vDmitrite, elle effectue une attaque de **Toucher Corruptif** contre elle. Une créature ne peut pas subir ces dégâts plus d'une fois par tour.*
+- ***Phase Mortelle (Coûte 2 Actions).** La banshee se déplace à sa vitesse sans provoquer d'attaques d'opportunité. Pendant ce déplacement, si elle traverse une case contenant une créature vivante, elle effectue une attaque de **Toucher Corruptif** contre elle. Une créature ne peut pas subir ces dégâts plus d'une fois par tour.*
 - ***J'ai Retrouvé Ma Voix (Coûte 2 Actions ; 1/rencontre).** Le **Cri** de la banshee se recharge.*
 
 **Trésor**
@@ -395,7 +393,7 @@ Outre la totalité de la richesse de la famille Fidatov (5 000 po), il y a quelq
 
 **Choix et Conséquences**
 
-Aucun des habitants du domaine (y compris la Dame Fidatov) ne retrouve sa forme vDmitrite le lendemain matin — ils sont vraiment morts. Cependant, il reste incertain si la malédiction est brisée. Les personnages doivent décider quoi faire du trésor.
+Aucun des habitants du domaine (y compris la Dame Fidatov) ne retrouve sa forme vivante le lendemain matin — ils sont vraiment morts. Cependant, il reste incertain si la malédiction est brisée. Les personnages doivent décider quoi faire du trésor.
 
 Les personnages peuvent souhaiter utiliser des sorts ou des capacités pour essayer de déterminer si le trésor est toujours maudit.
 
@@ -411,22 +409,22 @@ Détruire la banshee libère le domaine de sa malédiction. Attribuez 200 points
 
 Le voyage de retour au village est sans incident. Les personnages pourraient facilement attirer beaucoup d'attention sur eux-mêmes s'ils transportent un chariot rempli de trésors, mais ils sont probablement assez sages pour éviter de se présenter comme une cible évidente pour tous les bandits et brigands de Barovie.
 
-Bien que ce soit toujours l'hiver et que l'état d'Orașnou soit toujours déplorable lorsque les personnages reviennent au village, la mort de la Dame Fidatov a, dans une certaine mesure, amélioré la situation. Elle ajoutait sa magie pour renforcer la force de l'hiver, espérant faire sortir Dmitri Krezkov en personne. Bien que ce plan n'ait pas réussi, sa disparition n'apporte pas de répit aux villageois, car son influence sur leur misère était, en fin de compte, minime.
+Bien que ce soit toujours l'hiver et que l'état d'Krezk soit toujours déplorable lorsque les personnages reviennent au village, la mort de la Dame Fidatov a, dans une certaine mesure, amélioré la situation. Elle ajoutait sa magie pour renforcer la force de l'hiver, espérant faire sortir Dmitri Krezkov en personne. Bien que ce plan n'ait pas réussi, sa disparition n'apporte pas de répit aux villageois, car son influence sur leur misère était, en fin de compte, minime.
 
 **Une Discussion avec le Bourgmestre**
 
-Il va sans dire qu'Dmitri Krezkov est très impatient de rencontrer les aventuriers et d'entendre ce qu'ils ont découvert. Il envoie un messager les chercher dès qu'il est au courant de leur retour à Orașnou. Lisez ou paraphrasez ce qui suit :
+Il va sans dire qu'Dmitri Krezkov est très impatient de rencontrer les aventuriers et d'entendre ce qu'ils ont découvert. Il envoie un messager les chercher dès qu'il est au courant de leur retour à Krezk. Lisez ou paraphrasez ce qui suit :
 
-==`« Vous êtes revenus. Grigori et moi-même commencions à nous inquiéter, peut-être, juste un peu. Qu'avez-vous trouvé ? Le domaine Fidatov était-il aussi riche que la lettre le disait ? Plus important encore, la Dame Fidatov consentira-t-elle à partager sa richesse avec les pauvres habitants souffrants d'Orașnou ? »`==
+==`« Vous êtes revenus. Grigori et moi-même commencions à nous inquiéter, peut-être, juste un peu. Qu'avez-vous trouvé ? Le domaine Fidatov était-il aussi riche que la lettre le disait ? Plus important encore, la Dame Fidatov consentira-t-elle à partager sa richesse avec les pauvres habitants souffrants d'Krezk ? »`==
 
 ***Jouer Dmitri Krezkov***
 
-*Dmitri est le bourgmestre d'Orașnou et est habitué à être écouté et obéi. Il interrompt et parle par-dessus les autres et ne peut imaginer que quelqu'un désobéisse à ses ordres. C'est un homme vaniteux qui ajuste régulièrement ses vêtements, distraitement enlevant des peluches de son pourpoint ou s'inquiétant d'une éraflure sur ses bottes. Dmitri a une faiblesse pour les mystiques et les diseurs de bonne aventure, et saupoudre les concepts de destin et de volonté divine dans sa conversation.
+*Dmitri est le bourgmestre d'Krezk et est habitué à être écouté et obéi. Il interrompt et parle par-dessus les autres et ne peut imaginer que quelqu'un désobéisse à ses ordres. C'est un homme vaniteux qui ajuste régulièrement ses vêtements, distraitement enlevant des peluches de son pourpoint ou s'inquiétant d'une éraflure sur ses bottes. Dmitri a une faiblesse pour les mystiques et les diseurs de bonne aventure, et saupoudre les concepts de destin et de volonté divine dans sa conversation.
 Dans ce cas, le bourgmestre Krezkov sait qu'il marche probablement sur des œufs avec les personnages. Il a pris un gros risque en ne leur disant pas tout ce qu'il savait sur le domaine Fidatov. Son objectif principal dans cette conversation est de convaincre les personnages qu'il ne savait rien et qu'il est complètement surpris par tout ce qu'ils ont découvert.*
 
 Laissez les joueurs décider jusqu'à quel point ils veulent pousser Dmitri sur les choses qu'ils ont apprises. Il répondra à leurs questions, jusqu'à un certain point :
 
-- **Marilena était vDmitrite** : Il insiste que la dernière fois qu'il a vu Marilena, elle était vDmitrite et en bonne santé (bien que le cœur brisé ; il affirme que c'est lui qui a mis fin à leur relation, car elle ne s'intéressait qu'à l'argent, alors que lui cherchait le véritable amour).
+- **Marilena était vivante** : Il insiste que la dernière fois qu'il a vu Marilena, elle était vivante et en bonne santé (bien que le cœur brisé ; il affirme que c'est lui qui a mis fin à leur relation, car elle ne s'intéressait qu'à l'argent, alors que lui cherchait le véritable amour).
     
 - **Négation de la malédiction** : Il nie absolument savoir qu'elle était sous une malédiction, qu'elle était devenue une banshee, ou qu'elle est morte empoisonnée (et il n'y a aucune preuve directe impliquant Dmitri dans sa mort, donc les personnages ne peuvent pas vraiment le confronter trop violemment sur cette question).
     
@@ -477,5 +475,5 @@ niveau 5 - évocation
 
 **Durée** : instantanée
 
-Un flot d'énergie curative émane d'un point de votre choix dans la portée du sort. Choisissez jusqu'à six créatures dans une sphère d'un rayon de 9 mètres centrée sur ce point. Chaque cible récupère un nombre de points de vie égal à 3d8 + le modificateur de votre caractéristique d'incantation. Ce sort n'a pas d'effet sur les morts-vDmitrits et les artificiels.
+Un flot d'énergie curative émane d'un point de votre choix dans la portée du sort. Choisissez jusqu'à six créatures dans une sphère d'un rayon de 9 mètres centrée sur ce point. Chaque cible récupère un nombre de points de vie égal à 3d8 + le modificateur de votre caractéristique d'incantation. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.
 
