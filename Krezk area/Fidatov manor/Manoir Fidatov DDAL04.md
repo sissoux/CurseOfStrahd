@@ -302,7 +302,19 @@ La crypte est située au centre des jardins. Les haies sont semi-sentientes tant
 
 Lorsque les personnages atteignent le centre du labyrinthe, lisez ou paraphrasez ce qui suit :
 
-==`Un bâtiment en pierre altérée en forme de croix se dresse au centre du jardin. Contrairement aux autres endroits où vous êtes allés, cet endroit semble intact, préservé du chaos et de la folie qui ont balayé le domaine. Le bâtiment est dépourvu de décoration, à l'exception du mot FIDATOV gravé en lettres austères.`==
+==`Un bâtiment en pierre altérée en forme de croix se dresse au centre du jardin. Contrairement aux autres endroits où vous êtes allés, cet endroit semble intact, préservé du chaos et de la folie qui ont balayé le domaine. Il vous est cependant inaccessible puisque de solides grilles se dressent devant vous. A vos pieds, une dalle semble gravée d'un texte, derrière la végétation.
+"
+Deux âmes sèches, loin des regards,
+Gardent la clé d'un vieux savoir.
+Le cœur de pierre ne peut s’ouvrir,
+Qu’en arrosant la pierre pleine de désir.
+L’une regarde l’autre en silence,
+Leur union seule fait la balance.
+Quand la vie s’écoule en leur sein,
+Le chemin s’éclaire enfin."
+"
+Le bâtiment est dépourvu de décoration, à l'exception du mot FIDATOV gravé en lettres austères.
+`==
 
 ==`Là où devrait se trouver une porte se trouve une épaisse dalle de pierre sans charnières apparentes. En son centre se trouve une dépression de la taille et de la forme d'un bouclier en losange.`==
 
