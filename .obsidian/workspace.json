@@ -8,34 +8,105 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4615894a6f7231dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krezk area/Manoir Fidatov DDAL04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manoir Fidatov DDAL04"
+            }
+          },
+          {
             "id": "df879493d50a6b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saison 3/Manoir du mage fou/Introduction au manoir du mage fou.md",
+                "file": "Journal de lady fidatov.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction au manoir du mage fou"
+              "title": "Journal de lady fidatov"
             }
           },
           {
-            "id": "2bfbf6cb2f975313",
+            "id": "fba93ca70e163c7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 2-7/Session 2-7.md",
+                "file": "Session 2-7/Le manoir maudit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2-7"
+              "title": "Le manoir maudit"
+            }
+          },
+          {
+            "id": "50d2975c2b450525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krezk area/Krezk II Fidatov manor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Krezk II Fidatov manor"
+            }
+          },
+          {
+            "id": "327e5578468b404e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 2-1/Déroulé de session.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Déroulé de session"
+            }
+          },
+          {
+            "id": "01d175a5b00f06da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forces obscures et PJ/PO-TeiJah.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PO-TeiJah"
+            }
+          },
+          {
+            "id": "dbf26845a0345122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saison 3/Session 3-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 3-1"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -58,7 +129,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -75,7 +146,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -85,14 +156,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Signet"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 339.5
   },
   "right": {
     "id": "985fb7252b376654",
@@ -108,7 +179,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manoir fidatov-Le tour du domaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Manoir fidatov-Le tour du domaine"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +197,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manoir fidatov-Le tour du domaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Manoir fidatov-Le tour du domaine"
+              "title": "Outgoing links"
             }
           },
           {
@@ -145,7 +214,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Mots-clés"
+              "title": "Tags"
             }
           },
           {
@@ -153,11 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Manoir fidatov-Le tour du domaine.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Plan de Manoir fidatov-Le tour du domaine"
+              "title": "Outline"
             }
           }
         ]
@@ -169,65 +236,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "audio-recorder:Démarrer / arrêter l'enregistrement": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "git-integration:Open git menu": false
     }
   },
-  "active": "df879493d50a6b36",
+  "active": "dbf26845a0345122",
   "lastOpenFiles": [
-    "Mad mage stag went through portal.png",
-    "Mad mage stag looks at players 1.png",
-    "Krezk area/Fidatov manor/Loot fidatov.md",
+    "Saison 3/Résumé inter saison 2-3.md",
+    "Saison 3/Session 3-1.md",
+    "Résumés/Résumés.md",
+    "Résumés/Inter Saison.md",
+    "Résumés/Prologue.md",
+    "Saison 3/Tanière des loups garous",
     "Saison 3/Manoir du mage fou/Introduction au manoir du mage fou.md",
-    "Mad mage stag looks at players.png",
-    "Salle E.png",
-    "Salle I.png",
-    "Salle P.png",
-    "Salle M.png",
-    "Salle V.png",
-    "Salle A.png",
-    "Krezk area/Fidatov manor/Manoir Fidatov DDAL04.md",
-    "Saison 3/Manoir du mage fou",
-    "Sans titre",
-    "Saison 3",
-    "Session 2-7/Session 2-7.md",
-    "Krezk area/Fidatov manor/Krezk II Fidatov manor.md",
-    "Session 2-1/Déroulé de session.md",
-    "Session 2-1/Strahd et Garan.md",
-    "Session 2-7/Le manoir maudit.md",
-    "Session 2-6/Lili.md",
-    "2025-02-25.md",
+    "Sans titre.canvas",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
+    "Salle V.png",
+    "Salle P.png",
+    "Salle M.png",
+    "Salle I.png",
+    "Salle E.png",
+    "Salle A.png",
+    "Saison 3/Manoir du mage fou",
+    "Saison 3",
+    "Mad mage stag went through portal.png",
+    "Mad mage stag looks at players.png",
+    "Mad mage stag looks at players 1.png",
     "Krezk area/Fidatov manor/Manoir fidatov-Le tour du domaine.md",
-    "Krezk area/Jouer l'abbé de l'abbaye de sainte Markovia - Axel.md",
+    "Krezk area/Fidatov manor/Manoir Fidatov DDAL04.md",
+    "Krezk area/Fidatov manor/Loot fidatov.md",
     "Krezk area/Fidatov manor/Krezk III The Maze.md",
+    "Krezk area/Fidatov manor/Krezk II Fidatov manor.md",
     "Krezk area/Fidatov manor/Journal de lady fidatov.md",
-    "Temperature rules.md",
-    "Untitled.md",
-    "Size lore and regions.md",
-    "Sans titre.canvas",
-    "Krezk area/Tanière des loups garous.md",
-    "PNJ/Rictavio-Rudolph Van Richten.md",
-    "La mort de pipou.md",
-    "Krezk area/Tour de Van Richten.md",
     "Krezk area/Fidatov manor",
+    "2025-02-25.md",
     "2024-11-12.md",
-    "Krezk area/Fidatov Manor2.md",
-    "Krezk area/Fidatov manor 2 trad.md",
-    "Session 2-7",
+    "Session 2-7/Le manoir maudit.md",
+    "Krezk area/Le pont de la mort, sur la route de Ste Markovia.md",
+    "Krezk area/Manoir Fidatov DDAL04.md",
+    "Krezk area/Tanière des loups garous.md",
+    "Krezk area/Vasili - Ireena - the shrine of the white sun.md",
+    "Krezk area/Jouer l'abbé de l'abbaye de sainte Markovia - Axel.md",
+    "Krezk area/Infos de Dmitri Krezkov.md",
+    "Krezk area/Abbey sainte markovia.md",
+    "Session 2-5/Session 2-5 - Le combat contre Ilya krezkov.md",
     "Session 2-6/Session 2-6 - L'abbaye de Ste Markovia.md",
+    "Session 2-6/Lili.md",
+    "Session 2-3 la chasse/La chasse.md",
     "Session 2-7",
     "Session 2-6",
     "Session 2-5",
     "Session 2-4",
     "Forces obscures et PJ",
-    "Vallaki/Events of vallaki.png",
-    "Krezk area/Resources/Pasted image 20240907111447.png"
+    "Garan à ravenloft",
+    "Vallaki/Events of vallaki.png"
   ]
 }
